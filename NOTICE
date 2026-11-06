@@ -1,0 +1,14 @@
+Third-party notices
+===================
+
+diaries.json
+------------
+Derived from Solis (vertesan/solis-server), licensed under the GNU Affero
+General Public License v3.0 (AGPL-3.0):
+https://github.com/vertesan/solis-server
+
+The rest of the master data and captured responses originate from the IDOLY
+PRIDE game client and server traffic. They are included here for private-server
+development and preservation only. All rights remain with their respective
+owners. This project is unofficial and not affiliated with QualiArts, Bandai
+Namco, or the IDOLY PRIDE rights holders.

@@ -1,0 +1,1419 @@
+{
+ "version": "326fc57bb56ba48d80e17fa4c1b9a41c15cd3ffd15b84611945ba685ec4fbcfd",
+ "partitions": [
+  {
+   "type": "AccessoryEnhancement",
+   "fileName": "948cfb6acc3e1e0610679937d5f12b29cb74af33d827710826e7b842bc4b73c8",
+   "fileSize": 8192,
+   "cryptoKey": "556d584d4637797673424775486d616e343946694b67636f30714f456848556c",
+   "downloadUrl": "https://climaster.game-idolypride.jp/AccessoryEnhancement/948cfb6acc3e1e0610679937d5f12b29cb74af33d827710826e7b842bc4b73c8"
+  },
+  {
+   "type": "Accessory",
+   "fileName": "00c485ae28b8798cf207dd0e73bb9e44809f15db3561fd6896f10df2d1f38f89",
+   "fileSize": 131072,
+   "cryptoKey": "68437778446537387a49536956774f664635697a416672493469426674707077",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Accessory/00c485ae28b8798cf207dd0e73bb9e44809f15db3561fd6896f10df2d1f38f89"
+  },
+  {
+   "type": "ActivityAbility",
+   "fileName": "67370e42959300419dd5fda3158e424882271462af3ed1d880a01be767fa7fde",
+   "fileSize": 24576,
+   "cryptoKey": "44485031464134714f44636879673476784c354f573438347344776456455279",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ActivityAbility/67370e42959300419dd5fda3158e424882271462af3ed1d880a01be767fa7fde"
+  },
+  {
+   "type": "ActivityFanEvent",
+   "fileName": "ce44567f938bc6a80a6a0386b614eda8446f69e6149a453c8886300c5de560a8",
+   "fileSize": 20480,
+   "cryptoKey": "3246714352574850696363543669527371496e486979524b4a33496c78794758",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ActivityFanEvent/ce44567f938bc6a80a6a0386b614eda8446f69e6149a453c8886300c5de560a8"
+  },
+  {
+   "type": "ActivityPerformance",
+   "fileName": "0ac816ef8e4d907c7556416d9f291b94d83d3adaab8dabf2ab87852e3e2602df",
+   "fileSize": 20480,
+   "cryptoKey": "7a366453757170634849306d5a473032677563487334455371745762507a497a",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ActivityPerformance/0ac816ef8e4d907c7556416d9f291b94d83d3adaab8dabf2ab87852e3e2602df"
+  },
+  {
+   "type": "ActivityPromotion",
+   "fileName": "2ec64914f44ee7e011f8d68094262bc7121144215e6f2fba9da0664b15d65efd",
+   "fileSize": 24576,
+   "cryptoKey": "61584177326479514f76435870723645705854377369565162425a4776396c4c",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ActivityPromotion/2ec64914f44ee7e011f8d68094262bc7121144215e6f2fba9da0664b15d65efd"
+  },
+  {
+   "type": "ActivityRefresh",
+   "fileName": "d8552148e75c59bca808d839befe3c7d80d7daa2ab3e9b76193c29a76e3cfd06",
+   "fileSize": 12288,
+   "cryptoKey": "4c6d4539354e79677148303447567a6b564b4c68647432325551764b39435a61",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ActivityRefresh/d8552148e75c59bca808d839befe3c7d80d7daa2ab3e9b76193c29a76e3cfd06"
+  },
+  {
+   "type": "AdvLiveMovie",
+   "fileName": "cd5d4dbdac87e33d27b7546f7bd5656c030f8b80e6eecea63fc6ec990c52858d",
+   "fileSize": 20480,
+   "cryptoKey": "73427a34733359476c71736861304637644f3962314a4e37506f316732565173",
+   "downloadUrl": "https://climaster.game-idolypride.jp/AdvLiveMovie/cd5d4dbdac87e33d27b7546f7bd5656c030f8b80e6eecea63fc6ec990c52858d"
+  },
+  {
+   "type": "AppCapacityLimit",
+   "fileName": "1694e126a44a488e48d86fd222a7697564dd1f6d3599d67e6512f9cf71ba35d2",
+   "fileSize": 8192,
+   "cryptoKey": "6c50664d6368704452725a6569634e4b4f6263674c523352386f496f6b46666e",
+   "downloadUrl": "https://climaster.game-idolypride.jp/AppCapacityLimit/1694e126a44a488e48d86fd222a7697564dd1f6d3599d67e6512f9cf71ba35d2"
+  },
+  {
+   "type": "Area",
+   "fileName": "93166c84a7cc3aa3b19f5c65ec410e2f852d6ad0df939fbc24894fcc49c12767",
+   "fileSize": 217088,
+   "cryptoKey": "624f514d6655373844594b45506c7062787a6663334c6e725a794b7454565150",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Area/93166c84a7cc3aa3b19f5c65ec410e2f852d6ad0df939fbc24894fcc49c12767"
+  },
+  {
+   "type": "AreaGroup",
+   "fileName": "10d322bdde91cda9b2ce7a5c786b68e52f4668780c7089ab055a3c47091a71f5",
+   "fileSize": 12288,
+   "cryptoKey": "4c614f516f6e36414d563079443159444553706f62343330523353546a7a4936",
+   "downloadUrl": "https://climaster.game-idolypride.jp/AreaGroup/10d322bdde91cda9b2ce7a5c786b68e52f4668780c7089ab055a3c47091a71f5"
+  },
+  {
+   "type": "AssetDownload",
+   "fileName": "0d2940d85c5cc6772e693bfea2e6c0f9e25b290cf27085ae3f69cc0db511441a",
+   "fileSize": 118784,
+   "cryptoKey": "62615275586445573369445130445779704c5646354645516655456c6762566f",
+   "downloadUrl": "https://climaster.game-idolypride.jp/AssetDownload/0d2940d85c5cc6772e693bfea2e6c0f9e25b290cf27085ae3f69cc0db511441a"
+  },
+  {
+   "type": "BacksideAnimation",
+   "fileName": "9047bb88c22dcd1d2c68b814ecb4c435ac71a707d86c7469c7244d41fa2cf47d",
+   "fileSize": 28672,
+   "cryptoKey": "5a4b6346774537336f48466e56356d4c4b4965734f415137447637464e454e42",
+   "downloadUrl": "https://climaster.game-idolypride.jp/BacksideAnimation/9047bb88c22dcd1d2c68b814ecb4c435ac71a707d86c7469c7244d41fa2cf47d"
+  },
+  {
+   "type": "BacksidePanelGoalSetting",
+   "fileName": "4f05f278e06c8e1c5df73634af4e7efcee7ac5a4d8bc91b5c8c869fa0d713cf4",
+   "fileSize": 20480,
+   "cryptoKey": "6f5a4f4935693143584b4a5436377257484d3370475648794966413251575746",
+   "downloadUrl": "https://climaster.game-idolypride.jp/BacksidePanelGoalSetting/4f05f278e06c8e1c5df73634af4e7efcee7ac5a4d8bc91b5c8c869fa0d713cf4"
+  },
+  {
+   "type": "BacksideQuestSetting",
+   "fileName": "f6ae038e99e2f6ea942258f0a434bb014afc04ec22be67551235e134199d6d42",
+   "fileSize": 12288,
+   "cryptoKey": "4f4d41374e7644676f516e6f6e36467a324361346a41794d5138697143747944",
+   "downloadUrl": "https://climaster.game-idolypride.jp/BacksideQuestSetting/f6ae038e99e2f6ea942258f0a434bb014afc04ec22be67551235e134199d6d42"
+  },
+  {
+   "type": "BoxGachaGroup",
+   "fileName": "a97b6add3c0c1328aabbabb99dd2081155ab2c8faf27b91e1d7b0adcce4390eb",
+   "fileSize": 12288,
+   "cryptoKey": "706e6d59506672675963383278304f69446a5174744a387748394f4769794771",
+   "downloadUrl": "https://climaster.game-idolypride.jp/BoxGachaGroup/a97b6add3c0c1328aabbabb99dd2081155ab2c8faf27b91e1d7b0adcce4390eb"
+  },
+  {
+   "type": "BoxGacha",
+   "fileName": "cd05e864b436242ef4bde7a75fcd5ae83839f9aa900096f91e2d951e6c3bfb1c",
+   "fileSize": 28672,
+   "cryptoKey": "5a657542426146707846765077594d7457554771713636383152307257327878",
+   "downloadUrl": "https://climaster.game-idolypride.jp/BoxGacha/cd05e864b436242ef4bde7a75fcd5ae83839f9aa900096f91e2d951e6c3bfb1c"
+  },
+  {
+   "type": "CardEvolution",
+   "fileName": "a6ea29f4050f75238c6e2a9084692c80945c9e8404b99f5810817f7e6204eea6",
+   "fileSize": 12288,
+   "cryptoKey": "34463352525936706274654942354e334a4c48476734716634374a68795a5a4d",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardEvolution/a6ea29f4050f75238c6e2a9084692c80945c9e8404b99f5810817f7e6204eea6"
+  },
+  {
+   "type": "CardEvolutionMessage",
+   "fileName": "160357800bb300b318fe66de9ba091f651cab9aff6c31d2898d3f7cc18cdaaf5",
+   "fileSize": 20480,
+   "cryptoKey": "506a666f596876794a5a4571754244646b30747343324446304f4d4e30595a37",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardEvolutionMessage/160357800bb300b318fe66de9ba091f651cab9aff6c31d2898d3f7cc18cdaaf5"
+  },
+  {
+   "type": "CardEvolutionLevel",
+   "fileName": "df7d64a330afdb94b566bfec9f82310a6c462edcf998f607621c6e7a38a27180",
+   "fileSize": 12288,
+   "cryptoKey": "4e73433067536733555a7655726e7057314836773559397841306c5756394c4f",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardEvolutionLevel/df7d64a330afdb94b566bfec9f82310a6c462edcf998f607621c6e7a38a27180"
+  },
+  {
+   "type": "CardEvolutionLevelRelease",
+   "fileName": "3d4e78edb4d5a50d3fd6b48ffca1cb55d68692f4bb89c1d31a2a818fd0903f09",
+   "fileSize": 12288,
+   "cryptoKey": "77396e4d3968736b5a504d736d55386f39516e724862493753646a6d6a6c7768",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardEvolutionLevelRelease/3d4e78edb4d5a50d3fd6b48ffca1cb55d68692f4bb89c1d31a2a818fd0903f09"
+  },
+  {
+   "type": "CardDuplicateExp",
+   "fileName": "bb15de6aeb9f8439016a9d3056afbd297fa0fcae5ee15b7124a870611416f128",
+   "fileSize": 8192,
+   "cryptoKey": "746b45504c74395a45745175487639624645724470454f615349536563306745",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardDuplicateExp/bb15de6aeb9f8439016a9d3056afbd297fa0fcae5ee15b7124a870611416f128"
+  },
+  {
+   "type": "CardDuplicateReward",
+   "fileName": "32f10ecd41d0abb4640b984a5d40f122e08e205b5c2ef28dc9ac9d4a11807ea2",
+   "fileSize": 12288,
+   "cryptoKey": "656f325a6f386f3335414664476173375a6962344c6c446e6a33754a77474a6f",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardDuplicateReward/32f10ecd41d0abb4640b984a5d40f122e08e205b5c2ef28dc9ac9d4a11807ea2"
+  },
+  {
+   "type": "CardImage",
+   "fileName": "e1f8704abf0264ed2bc03c971f1da0848d3f24261f140926c431a8a78aea6326",
+   "fileSize": 86016,
+   "cryptoKey": "7865395541305871726c64687a4c32657a7878705967396c5a577234796f4758",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardImage/e1f8704abf0264ed2bc03c971f1da0848d3f24261f140926c431a8a78aea6326"
+  },
+  {
+   "type": "CardLevel",
+   "fileName": "ae46ff5627999c9f2099bf0ade63d04b5d6549e5b701a308f0c2682b976efb33",
+   "fileSize": 8192,
+   "cryptoKey": "795a573358535579334e4f6878614961584468423251434c57703561784e7973",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardLevel/ae46ff5627999c9f2099bf0ade63d04b5d6549e5b701a308f0c2682b976efb33"
+  },
+  {
+   "type": "CardLevelRelease",
+   "fileName": "317e05999aad6043cd7ff9105008492cd9a67b148084fa99e3fd30656747c3fd",
+   "fileSize": 12288,
+   "cryptoKey": "6175696658316e3974756c78676b53414575394a714a55674c304a357a4f4747",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardLevelRelease/317e05999aad6043cd7ff9105008492cd9a67b148084fa99e3fd30656747c3fd"
+  },
+  {
+   "type": "Card",
+   "fileName": "9b15f21e85bb317f045fec9a885837e6022e1b0b5ac7fbfa0f0aa2f0562c3f6c",
+   "fileSize": 348160,
+   "cryptoKey": "7a6d3770496459727067595a6455614952306e49395333305778774778614f41",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Card/9b15f21e85bb317f045fec9a885837e6022e1b0b5ac7fbfa0f0aa2f0562c3f6c"
+  },
+  {
+   "type": "CardParameter",
+   "fileName": "778485af56d9a8384b11898cb69d98d327b715bae1f180d74c48ee55a882fd19",
+   "fileSize": 73728,
+   "cryptoKey": "637571467345334545706d594934436b4275774e7669364f4a61786949335261",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardParameter/778485af56d9a8384b11898cb69d98d327b715bae1f180d74c48ee55a882fd19"
+  },
+  {
+   "type": "CardRank",
+   "fileName": "872be4be6e97c76c58cc06bc391957f1606d9e38a103612d919a2f522d3bf520",
+   "fileSize": 8192,
+   "cryptoKey": "4f4752343358797035574f47443741554b4d597736566c4b724b5a4c68697477",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardRank/872be4be6e97c76c58cc06bc391957f1606d9e38a103612d919a2f522d3bf520"
+  },
+  {
+   "type": "CardRarity",
+   "fileName": "6bd3fb4297235c049f5ed27894f121209d1926d727a5f5df96c79ab838613325",
+   "fileSize": 8192,
+   "cryptoKey": "31324170667052504838527633494e356c594e384935436f3075423059695566",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardRarity/6bd3fb4297235c049f5ed27894f121209d1926d727a5f5df96c79ab838613325"
+  },
+  {
+   "type": "CardSupportRelease",
+   "fileName": "444ac8cdd89c2de89496ddcbb8ba8f26c6895d2428685b9bd3a803b3c7438845",
+   "fileSize": 20480,
+   "cryptoKey": "42745a354d6c497a30455935584b716b59644e6c486b674a337330796e5a4b44",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CardSupportRelease/444ac8cdd89c2de89496ddcbb8ba8f26c6895d2428685b9bd3a803b3c7438845"
+  },
+  {
+   "type": "CharacterActivityLevel",
+   "fileName": "62d7f4446359e86e885d909b5717f64c4947c6161d1e5c6c55bdc23fede1b5f7",
+   "fileSize": 8192,
+   "cryptoKey": "727254767539366b427a4242526d3341365967726b456c6e6f65345748355141",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CharacterActivityLevel/62d7f4446359e86e885d909b5717f64c4947c6161d1e5c6c55bdc23fede1b5f7"
+  },
+  {
+   "type": "CharacterCostumeGroup",
+   "fileName": "a4d856bc218673f66a7ef67f920e3c8ec974786f765d918f85022c64364cc8dd",
+   "fileSize": 20480,
+   "cryptoKey": "436b6e66544e72346e4c325a31385059416477704e694e494d495a6847646134",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CharacterCostumeGroup/a4d856bc218673f66a7ef67f920e3c8ec974786f765d918f85022c64364cc8dd"
+  },
+  {
+   "type": "CharacterGroup",
+   "fileName": "c0588d7a78c6a1f970fd9fb552b1ea1f18b06d15dedf9c65fba6f73899ce1a12",
+   "fileSize": 24576,
+   "cryptoKey": "586d536965706c5138756d4932414230314a6a63656f52326f5a4a7a4243656d",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CharacterGroup/c0588d7a78c6a1f970fd9fb552b1ea1f18b06d15dedf9c65fba6f73899ce1a12"
+  },
+  {
+   "type": "Character",
+   "fileName": "f38f547f5d0f836738499f8755f7900f48806c9becb431d655665d5eb301743b",
+   "fileSize": 135168,
+   "cryptoKey": "46643637724c6a5238684d444b4e31474f6454746a4f313252376e766569526f",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Character/f38f547f5d0f836738499f8755f7900f48806c9becb431d655665d5eb301743b"
+  },
+  {
+   "type": "ComboAdvantage",
+   "fileName": "b3a3b917519ca3c1231cf9cb4ca7fef9364869e5c174483808b3844c6355dd33",
+   "fileSize": 12288,
+   "cryptoKey": "59793933357042726151517537566f756e79625655774d6377323351466c3761",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ComboAdvantage/b3a3b917519ca3c1231cf9cb4ca7fef9364869e5c174483808b3844c6355dd33"
+  },
+  {
+   "type": "Condition",
+   "fileName": "326fc57bb56ba48d80e17fa4c1b9a41c15cd3ffd15b84611945ba685ec4fbcfd",
+   "fileSize": 5685248,
+   "cryptoKey": "43416d756338444a354c625164754470756a5551324a78445353584766717767",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Condition/326fc57bb56ba48d80e17fa4c1b9a41c15cd3ffd15b84611945ba685ec4fbcfd"
+  },
+  {
+   "type": "ConditionDescription",
+   "fileName": "e556185259807d2259ad472acf62cdd2195d43cb0677e33c204b52430403e34d",
+   "fileSize": 5357568,
+   "cryptoKey": "4c374249575475744a334c4945534d52645170465370726e4c36306538336c34",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ConditionDescription/e556185259807d2259ad472acf62cdd2195d43cb0677e33c204b52430403e34d"
+  },
+  {
+   "type": "Consumption",
+   "fileName": "6aa496f4d6ece8649b31cca651ea04ff59cdf4fdfd99bc88a69148dc6b8308dc",
+   "fileSize": 135168,
+   "cryptoKey": "617966514962303977716e47736d3373646a37506c52367a49506f35316f3262",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Consumption/6aa496f4d6ece8649b31cca651ea04ff59cdf4fdfd99bc88a69148dc6b8308dc"
+  },
+  {
+   "type": "CompanyEnjoyCharacterLevel",
+   "fileName": "592cca1e17f0fbd28ca5a8450031f908953512f25f948344681a79b1bca7882f",
+   "fileSize": 8192,
+   "cryptoKey": "73496b7533757830666e4e7271786e32647a74616445623763325735544b7843",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CompanyEnjoyCharacterLevel/592cca1e17f0fbd28ca5a8450031f908953512f25f948344681a79b1bca7882f"
+  },
+  {
+   "type": "CompanyEnjoyCharacterLevelSetting",
+   "fileName": "bcbf83d01288e4e6526c2204bf2e2628cf614b522f99307b5a905611dd442631",
+   "fileSize": 131072,
+   "cryptoKey": "5a476c545a4d566b6633715675314b6a4e5937447a79334f665a57545a733466",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CompanyEnjoyCharacterLevelSetting/bcbf83d01288e4e6526c2204bf2e2628cf614b522f99307b5a905611dd442631"
+  },
+  {
+   "type": "CompanyEnjoyHomeAction",
+   "fileName": "2c608ffd607430a82d4de870817924cd5b3eadad806b98e4620aed0b33bf5b7f",
+   "fileSize": 24576,
+   "cryptoKey": "5246476b796775354f58556d6c48796f6847694462464b78736862504474366a",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CompanyEnjoyHomeAction/2c608ffd607430a82d4de870817924cd5b3eadad806b98e4620aed0b33bf5b7f"
+  },
+  {
+   "type": "CompanyEnjoyLevel",
+   "fileName": "89def30cc5263b6d62f1c8cc235e62a05c491d195b38a9723358158fa94b70da",
+   "fileSize": 8192,
+   "cryptoKey": "754a5831545336594277747139724f6a4376676e6c655a5658705a6432746644",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CompanyEnjoyLevel/89def30cc5263b6d62f1c8cc235e62a05c491d195b38a9723358158fa94b70da"
+  },
+  {
+   "type": "CompanyEnjoyObtainPointItemSetting",
+   "fileName": "12c703249a880f10bb93446a0f89a875682961ee566f24afb290e9ed0fc083ba",
+   "fileSize": 98304,
+   "cryptoKey": "656152714b5966473576726a345552623455574c45397937554a773642307a79",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CompanyEnjoyObtainPointItemSetting/12c703249a880f10bb93446a0f89a875682961ee566f24afb290e9ed0fc083ba"
+  },
+  {
+   "type": "CompanyGrade",
+   "fileName": "a53dd9959c1bd9063b673f72667af517f89840432cc8d65ff5ec4c66728e2d0b",
+   "fileSize": 20480,
+   "cryptoKey": "6f74586a364b4d67353344514a566d704f61426638356768476972415972394c",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CompanyGrade/a53dd9959c1bd9063b673f72667af517f89840432cc8d65ff5ec4c66728e2d0b"
+  },
+  {
+   "type": "CompanySalarySetting",
+   "fileName": "8a65ceb59fd8c7a86999fa89efc7f2b4c37c76dddbfc1de96d0af44d6a31c6f6",
+   "fileSize": 12288,
+   "cryptoKey": "6e536d7472453073324d35555a4e7467776e386d624c4838327245454c525049",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CompanySalarySetting/8a65ceb59fd8c7a86999fa89efc7f2b4c37c76dddbfc1de96d0af44d6a31c6f6"
+  },
+  {
+   "type": "CompanyTrustLevel",
+   "fileName": "3134a7cba4a1942acc3f1e9c0272c6d8fc8905a4f3e9286ee06d1a27b74a897e",
+   "fileSize": 8192,
+   "cryptoKey": "5651483248776b3162464647616765487a695762356547496a4e737341554a62",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CompanyTrustLevel/3134a7cba4a1942acc3f1e9c0272c6d8fc8905a4f3e9286ee06d1a27b74a897e"
+  },
+  {
+   "type": "CompanyPoint",
+   "fileName": "ba56970c84af1005600a6a64e09453c5dd1fd9dd54c9015f24347b0035acaf52",
+   "fileSize": 12288,
+   "cryptoKey": "5663647666465133467279396938676d3372696636304e4a78534568345a446c",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CompanyPoint/ba56970c84af1005600a6a64e09453c5dd1fd9dd54c9015f24347b0035acaf52"
+  },
+  {
+   "type": "Costume",
+   "fileName": "ff437d2192bd97850b73e299770ac80e9cb03dc7077abf2ff7995f78c40f7b17",
+   "fileSize": 200704,
+   "cryptoKey": "6a505a52576c46385566444f5957733965384f6f324c415237597a34674f7050",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Costume/ff437d2192bd97850b73e299770ac80e9cb03dc7077abf2ff7995f78c40f7b17"
+  },
+  {
+   "type": "CostumeType",
+   "fileName": "7caad01e68c08cb8a04017d3e09332807b9ba39dff47886beabbe395615b8616",
+   "fileSize": 12288,
+   "cryptoKey": "4b6a5563484445665274714e766c3871524b674f50396a73556e477776357862",
+   "downloadUrl": "https://climaster.game-idolypride.jp/CostumeType/7caad01e68c08cb8a04017d3e09332807b9ba39dff47886beabbe395615b8616"
+  },
+  {
+   "type": "DeckEntrustCoefficient",
+   "fileName": "5094c40b93505654d18d3983e2844556726a67a204f7afbf574dce5b69121357",
+   "fileSize": 8192,
+   "cryptoKey": "4c4f584b506553464d6a73354b3248555359685778494f6943757a394f785332",
+   "downloadUrl": "https://climaster.game-idolypride.jp/DeckEntrustCoefficient/5094c40b93505654d18d3983e2844556726a67a204f7afbf574dce5b69121357"
+  },
+  {
+   "type": "Decoration",
+   "fileName": "abef4715e7e8be438a109b598d0e78019574d0b16c12107225a2420c135f3b0c",
+   "fileSize": 90112,
+   "cryptoKey": "614b4a63317a686349586d344e47396d58655a4b306f4c6938446e6a57483061",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Decoration/abef4715e7e8be438a109b598d0e78019574d0b16c12107225a2420c135f3b0c"
+  },
+  {
+   "type": "Division",
+   "fileName": "dab12a4385747c18c8459d1642746355d660663958af96ceff6d092008a30c44",
+   "fileSize": 77824,
+   "cryptoKey": "4f7756686d5a726b415570726a4b6f3875436e4f6843484e636d67624456687a",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Division/dab12a4385747c18c8459d1642746355d660663958af96ceff6d092008a30c44"
+  },
+  {
+   "type": "DutyPoint",
+   "fileName": "57e87077c5e7eaf1bb7a1f2e37eba59bd205e264b2f80d3b970f70022aa12e7d",
+   "fileSize": 32768,
+   "cryptoKey": "435632716e6d4f464c716c796936304330633752394670635237306732464636",
+   "downloadUrl": "https://climaster.game-idolypride.jp/DutyPoint/57e87077c5e7eaf1bb7a1f2e37eba59bd205e264b2f80d3b970f70022aa12e7d"
+  },
+  {
+   "type": "Emblem",
+   "fileName": "99d37764cf65e5d1ecab84d92bdb19079ad62ae14d103a7a88e3ae7414687c46",
+   "fileSize": 245760,
+   "cryptoKey": "4e4374534a71746a74717261726262304b58486d746a777a4656514534544456",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Emblem/99d37764cf65e5d1ecab84d92bdb19079ad62ae14d103a7a88e3ae7414687c46"
+  },
+  {
+   "type": "EventMission",
+   "fileName": "6e83eeedc88d7e5e174f86281c99109c491a9d91ab5b0bcdd54013b2871befdc",
+   "fileSize": 294912,
+   "cryptoKey": "7049537275367868754a6c4d4a63367a796c4748424a6551645a367134685970",
+   "downloadUrl": "https://climaster.game-idolypride.jp/EventMission/6e83eeedc88d7e5e174f86281c99109c491a9d91ab5b0bcdd54013b2871befdc"
+  },
+  {
+   "type": "EventStory",
+   "fileName": "ee90ab225381b109ac3e38377c2685af740db8d999e2a22c3875c9516452eac0",
+   "fileSize": 53248,
+   "cryptoKey": "464f4675784843535273597269617436486f465246306465476d79424274426a",
+   "downloadUrl": "https://climaster.game-idolypride.jp/EventStory/ee90ab225381b109ac3e38377c2685af740db8d999e2a22c3875c9516452eac0"
+  },
+  {
+   "type": "ExcursionGazeReaction",
+   "fileName": "712f692ce09e6ced70c51c8845bf6adb5d58979114fae7ee8e4dc2e2565c4b56",
+   "fileSize": 118784,
+   "cryptoKey": "45694b46573541566f777235524f357430793969414b727851777a4834654c68",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ExcursionGazeReaction/712f692ce09e6ced70c51c8845bf6adb5d58979114fae7ee8e4dc2e2565c4b56"
+  },
+  {
+   "type": "ExcursionPlace",
+   "fileName": "a32d85dee98d85f989af68abbc6cbacbdd31b0487f9d29b5b7955e481ae532ec",
+   "fileSize": 12288,
+   "cryptoKey": "36347a4b4f386f61414d4b4542486b314e76303262424c414c6d333752357353",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ExcursionPlace/a32d85dee98d85f989af68abbc6cbacbdd31b0487f9d29b5b7955e481ae532ec"
+  },
+  {
+   "type": "ExcursionPlaceSetting",
+   "fileName": "fe6454707dc6e43d74202f0f3addc5f86ee9e2e18d003412a291fde44d010bec",
+   "fileSize": 24576,
+   "cryptoKey": "33626767316b613736784e3655456973304f4a36316f585356524f763655384b",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ExcursionPlaceSetting/fe6454707dc6e43d74202f0f3addc5f86ee9e2e18d003412a291fde44d010bec"
+  },
+  {
+   "type": "Exercise",
+   "fileName": "96afbbe7485cc68ce02d57fbc767ff4a7b297cc262cb45eb7f59f239fdfc861a",
+   "fileSize": 24576,
+   "cryptoKey": "4b61684d7251614e73646272496a3044734b424f364873653964567538445a71",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Exercise/96afbbe7485cc68ce02d57fbc767ff4a7b297cc262cb45eb7f59f239fdfc861a"
+  },
+  {
+   "type": "ExerciseAccessoryGroup",
+   "fileName": "596890a818525c4517af5e5027b7d741eb87c42a26034b339c55eb784e504029",
+   "fileSize": 12288,
+   "cryptoKey": "32384f6259544b33465952724b30784b38435258765644726436675865327452",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ExerciseAccessoryGroup/596890a818525c4517af5e5027b7d741eb87c42a26034b339c55eb784e504029"
+  },
+  {
+   "type": "ExerciseCardGroup",
+   "fileName": "e0265970c085fd77871bac8e474b31e8b2580be556cd7d01b9f780afe5e0b11d",
+   "fileSize": 12288,
+   "cryptoKey": "3833724d6c47514155355a35746c4c72574e673236754d424354514245334174",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ExerciseCardGroup/e0265970c085fd77871bac8e474b31e8b2580be556cd7d01b9f780afe5e0b11d"
+  },
+  {
+   "type": "ExerciseCostume",
+   "fileName": "d7e5fac95f86210d889440c0fda0a5a1ae7a6c7dab916151bf6b05a1661ce220",
+   "fileSize": 12288,
+   "cryptoKey": "536b6e376c75384745497433524f4f494655614a746436746d6f4c5536716363",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ExerciseCostume/d7e5fac95f86210d889440c0fda0a5a1ae7a6c7dab916151bf6b05a1661ce220"
+  },
+  {
+   "type": "ExerciseDeck",
+   "fileName": "b118aeb2d8ba7c11992d9915dad89fafbd5980467b032af5e94a692ec3191ecd",
+   "fileSize": 12288,
+   "cryptoKey": "49385273544257574a304f4337316d74446a6b615a4267485472563752303941",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ExerciseDeck/b118aeb2d8ba7c11992d9915dad89fafbd5980467b032af5e94a692ec3191ecd"
+  },
+  {
+   "type": "ExerciseHint",
+   "fileName": "d4f55b3747bb8ce30b3c6634969b55233f023b2f5e012f76267b1868ff3efa21",
+   "fileSize": 28672,
+   "cryptoKey": "69454b347059596468326b4f554b474a4a796d70544f50656378637949594958",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ExerciseHint/d4f55b3747bb8ce30b3c6634969b55233f023b2f5e012f76267b1868ff3efa21"
+  },
+  {
+   "type": "ExercisePhotoGroup",
+   "fileName": "deda302b1c4502ae770a72fc22e876877e52c5b6a5eafee6866984ca1144a8ca",
+   "fileSize": 12288,
+   "cryptoKey": "66306f675a6b637a684d6e4d326f524954493330564b31435448513569473371",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ExercisePhotoGroup/deda302b1c4502ae770a72fc22e876877e52c5b6a5eafee6866984ca1144a8ca"
+  },
+  {
+   "type": "ExerciseUser",
+   "fileName": "50d331ccd2b753bfce6ebf74751342d56dcbefb2a147430c7488fc292798e3c9",
+   "fileSize": 12288,
+   "cryptoKey": "49565564454f424152345572725157743042524a30766a444e575574744d5958",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ExerciseUser/50d331ccd2b753bfce6ebf74751342d56dcbefb2a147430c7488fc292798e3c9"
+  },
+  {
+   "type": "FunctionLock",
+   "fileName": "5d736e2830cdb7ff2d230395e2d776be9af98bbd9ce7918739e522e38f9cc07b",
+   "fileSize": 8192,
+   "cryptoKey": "7343574536357064496a423053686e475758555a57545873636c566936345163",
+   "downloadUrl": "https://climaster.game-idolypride.jp/FunctionLock/5d736e2830cdb7ff2d230395e2d776be9af98bbd9ce7918739e522e38f9cc07b"
+  },
+  {
+   "type": "Gacha",
+   "fileName": "db23a356fa37cb930d21e2d5992c7bc3be03eb93e5a2e5b2827e0375a8d670c7",
+   "fileSize": 8863744,
+   "cryptoKey": "304845646b6248496e6a6f5a614c4b5a6266474c6b66347053476f344f7a6675",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Gacha/db23a356fa37cb930d21e2d5992c7bc3be03eb93e5a2e5b2827e0375a8d670c7"
+  },
+  {
+   "type": "GachaButton",
+   "fileName": "0975d9321ab99b8f61dbea9ba88e585feaec669647c58115880561cbf4f81a01",
+   "fileSize": 888832,
+   "cryptoKey": "337344524f6e787433316257433078646d37705468597946706a626868503731",
+   "downloadUrl": "https://climaster.game-idolypride.jp/GachaButton/0975d9321ab99b8f61dbea9ba88e585feaec669647c58115880561cbf4f81a01"
+  },
+  {
+   "type": "GachaExchange",
+   "fileName": "98d41df61b1d81e34e8e9c1f20da796af34192e205d6a5d64ec1059a1387ac6a",
+   "fileSize": 1998848,
+   "cryptoKey": "624a4b6e3668694e6d51303074486d674a6758346c766a624134716c716a6376",
+   "downloadUrl": "https://climaster.game-idolypride.jp/GachaExchange/98d41df61b1d81e34e8e9c1f20da796af34192e205d6a5d64ec1059a1387ac6a"
+  },
+  {
+   "type": "GachaStamp",
+   "fileName": "e296e54876f7d9876ac602774179d8202a0946923cdcd4d1b3088de46824e51e",
+   "fileSize": 282624,
+   "cryptoKey": "755a5a735a3978374735664951354b4b76475161676f3354756e773571446f31",
+   "downloadUrl": "https://climaster.game-idolypride.jp/GachaStamp/e296e54876f7d9876ac602774179d8202a0946923cdcd4d1b3088de46824e51e"
+  },
+  {
+   "type": "GachaStampSheet",
+   "fileName": "a9e546db99d1f106a3b30d7b1988b565c81aa4b032af4d5b48752fd7ae485066",
+   "fileSize": 94208,
+   "cryptoKey": "494674326a4c4f7064736a716d53596d7a535732365867576748736a69726f49",
+   "downloadUrl": "https://climaster.game-idolypride.jp/GachaStampSheet/a9e546db99d1f106a3b30d7b1988b565c81aa4b032af4d5b48752fd7ae485066"
+  },
+  {
+   "type": "GachaStampSheetGroup",
+   "fileName": "a2cb5325b7a1678e1d6b464bd9f54548a7be21bc1121022d1581f2efe59dfd5d",
+   "fileSize": 20480,
+   "cryptoKey": "55596333336273624943524a75436244627778416a61434d7a59446177516f54",
+   "downloadUrl": "https://climaster.game-idolypride.jp/GachaStampSheetGroup/a2cb5325b7a1678e1d6b464bd9f54548a7be21bc1121022d1581f2efe59dfd5d"
+  },
+  {
+   "type": "Guild",
+   "fileName": "a3d69d91779c28cf63785b68456bf5ee1d347f30120ea1fdab8f9e204b078b6d",
+   "fileSize": 12288,
+   "cryptoKey": "4d337a557736734b44526878506735304f7775505162397479556b786b653845",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Guild/a3d69d91779c28cf63785b68456bf5ee1d347f30120ea1fdab8f9e204b078b6d"
+  },
+  {
+   "type": "GuildTopMovie",
+   "fileName": "7da026b69128da9400279fbbaf083f81716d8f3fc78392fcff37ecb2662f32cc",
+   "fileSize": 20480,
+   "cryptoKey": "56534a4267686169734c756f74786e3049355864427470556933796a4f614571",
+   "downloadUrl": "https://climaster.game-idolypride.jp/GuildTopMovie/7da026b69128da9400279fbbaf083f81716d8f3fc78392fcff37ecb2662f32cc"
+  },
+  {
+   "type": "Hair",
+   "fileName": "fe5ef7b11f6ee19c6e4480d2714a005b32d962be5342b1d43858ede8f5b31dda",
+   "fileSize": 258048,
+   "cryptoKey": "4471464837667854496f5977674354717965437258504830466c6e6e48394834",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Hair/fe5ef7b11f6ee19c6e4480d2714a005b32d962be5342b1d43858ede8f5b31dda"
+  },
+  {
+   "type": "HelpCategory",
+   "fileName": "e2b09bc5df51866e1bfff835b2da050ae959618776553bdba6f90d4e3dab6334",
+   "fileSize": 339968,
+   "cryptoKey": "44486a68683657626a32534c5337796e754354524b6137326658464f636f4148",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HelpCategory/e2b09bc5df51866e1bfff835b2da050ae959618776553bdba6f90d4e3dab6334"
+  },
+  {
+   "type": "HierarchyDetailGrade",
+   "fileName": "35e1b4ca61035c07790386944dd5b25a6e0d444cb9c1afe69d575827a752e011",
+   "fileSize": 12288,
+   "cryptoKey": "5279616b545956756f4c7557335562657751697944776d4a6738476e42573857",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HierarchyDetailGrade/35e1b4ca61035c07790386944dd5b25a6e0d444cb9c1afe69d575827a752e011"
+  },
+  {
+   "type": "HierarchyDivisionReward",
+   "fileName": "b5887e1046b922d3a576258a775687fe83bbe9e15cd585644a932af6a32e9b88",
+   "fileSize": 12288,
+   "cryptoKey": "75437171464f64574a5754345232415a697a6b4f4b573646474f786b51655334",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HierarchyDivisionReward/b5887e1046b922d3a576258a775687fe83bbe9e15cd585644a932af6a32e9b88"
+  },
+  {
+   "type": "HierarchyGrade",
+   "fileName": "f7c4200db7e50cf2514e99aa6b719596260ece1ee9e18f6600d73448ed2473f3",
+   "fileSize": 12288,
+   "cryptoKey": "705549356274707050433252774745514f4b684f68304d554a4b733665336768",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HierarchyGrade/f7c4200db7e50cf2514e99aa6b719596260ece1ee9e18f6600d73448ed2473f3"
+  },
+  {
+   "type": "HierarchyReward",
+   "fileName": "500fbcc7317342392e83649323c3dbb00c2a336ff68becda316c33c47b1b13f3",
+   "fileSize": 12288,
+   "cryptoKey": "4d4530336c6c665056356f527068434f4a415158714d4651514d36526e4a4968",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HierarchyReward/500fbcc7317342392e83649323c3dbb00c2a336ff68becda316c33c47b1b13f3"
+  },
+  {
+   "type": "HomeAction",
+   "fileName": "68ea6c17d245d4718f4140f0fb03cd823ef7736b6768c4aa59f125c389e7415f",
+   "fileSize": 905216,
+   "cryptoKey": "4b393268444e4449735564496768516164335357796974366e5a414367627a63",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HomeAction/68ea6c17d245d4718f4140f0fb03cd823ef7736b6768c4aa59f125c389e7415f"
+  },
+  {
+   "type": "HomeBackground",
+   "fileName": "3af08d8c547af6b57077f2d4c4eaeda512267d1b90af50bc9cd3910c7f43349d",
+   "fileSize": 24576,
+   "cryptoKey": "4274436a3354596a4538746e6646304b5952744b444131646e34396f3159716a",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HomeBackground/3af08d8c547af6b57077f2d4c4eaeda512267d1b90af50bc9cd3910c7f43349d"
+  },
+  {
+   "type": "HomeBackgroundCategory",
+   "fileName": "13c36c40537f46a50caa416efe61385b63c4b12841672a67d9617b39838df41e",
+   "fileSize": 12288,
+   "cryptoKey": "35734e4330504e6e716a6d397172494457373468644e6352704a4b4367356f78",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HomeBackgroundCategory/13c36c40537f46a50caa416efe61385b63c4b12841672a67d9617b39838df41e"
+  },
+  {
+   "type": "HomeDrama",
+   "fileName": "99afd31ce36f2cb0da85c569972d8ecc2c543150bf1d5debd0dc6261d67999d7",
+   "fileSize": 12288,
+   "cryptoKey": "5978506e6b67325038676936526170666e6744776c4e764a6d6557674d4b4448",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HomeDrama/99afd31ce36f2cb0da85c569972d8ecc2c543150bf1d5debd0dc6261d67999d7"
+  },
+  {
+   "type": "HomeDramaFree",
+   "fileName": "d6c5607ae15dc5bd8e91060788784effb8041d453143caf0ed17c8b2fe22335d",
+   "fileSize": 69632,
+   "cryptoKey": "696f56704f6d523367666e6453786d63496d585868563232435a366949775a63",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HomeDramaFree/d6c5607ae15dc5bd8e91060788784effb8041d453143caf0ed17c8b2fe22335d"
+  },
+  {
+   "type": "HomeDramaPosition",
+   "fileName": "04e9f26d51178014224866ea7c78d350eecbe074efa5a42d818bdb0931fc7890",
+   "fileSize": 12288,
+   "cryptoKey": "5438434970317338705a336573797437737461706d46517243327a4c694c4a58",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HomeDramaPosition/04e9f26d51178014224866ea7c78d350eecbe074efa5a42d818bdb0931fc7890"
+  },
+  {
+   "type": "HomeDramaPositionGroup",
+   "fileName": "a79397240fff7a79b4cea23eea4237c5bb56c59ba75269bb5874df1c71308242",
+   "fileSize": 12288,
+   "cryptoKey": "766134376f673352346c5550794c4c4b4a366535423578616773326f354f3169",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HomeDramaPositionGroup/a79397240fff7a79b4cea23eea4237c5bb56c59ba75269bb5874df1c71308242"
+  },
+  {
+   "type": "HomeMainCharacterStay",
+   "fileName": "628e94675918a8a7881776847c7748654d4351f50dc9f37afa408a212eef216d",
+   "fileSize": 24576,
+   "cryptoKey": "574e34337a434f36744f70626270786d7749675a735a584d66785a6e6c684445",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HomeMainCharacterStay/628e94675918a8a7881776847c7748654d4351f50dc9f37afa408a212eef216d"
+  },
+  {
+   "type": "HomeNavigation",
+   "fileName": "c7e07949dcc711ee3e5b2b4b0f2a53ee6ff0b6d01fe620a484e433ad8b1ccd58",
+   "fileSize": 12288,
+   "cryptoKey": "73543858715430337a627244303662636539364c6879773733614f4e4f5a694a",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HomeNavigation/c7e07949dcc711ee3e5b2b4b0f2a53ee6ff0b6d01fe620a484e433ad8b1ccd58"
+  },
+  {
+   "type": "HomeSubCharacterStayGroup",
+   "fileName": "876a2e20708a08fd76597e57a0824ac14784a482ee9d6f627f2f4057f8ca6000",
+   "fileSize": 24576,
+   "cryptoKey": "7a71675566334f556e364b4a5149424d367856785a734b62734a5a4157464372",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HomeSubCharacterStayGroup/876a2e20708a08fd76597e57a0824ac14784a482ee9d6f627f2f4057f8ca6000"
+  },
+  {
+   "type": "HomeTalk",
+   "fileName": "e6f23c416395532a6f11d0b8a73cc3d803162c39826121ddafaab3cf0e6336b9",
+   "fileSize": 1003520,
+   "cryptoKey": "6b6a7866715749526b45354b39467a76774d70463635724458455a3764636d64",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HomeTalk/e6f23c416395532a6f11d0b8a73cc3d803162c39826121ddafaab3cf0e6336b9"
+  },
+  {
+   "type": "HomeTalkCallPattern",
+   "fileName": "8c88f237f40de3e85236a2088b56a9e42d75f7281d2d14e271f201567a85ae59",
+   "fileSize": 176128,
+   "cryptoKey": "6e5249373631756a6a46676478376571436231517a736e756135557749307946",
+   "downloadUrl": "https://climaster.game-idolypride.jp/HomeTalkCallPattern/8c88f237f40de3e85236a2088b56a9e42d75f7281d2d14e271f201567a85ae59"
+  },
+  {
+   "type": "InviteHostReward",
+   "fileName": "cac5e7322c1c3526c97b70ab7441c3515411e43375f8688bc2b496dfcf7a4b42",
+   "fileSize": 12288,
+   "cryptoKey": "44454e51576d586165704445413853533570524c4464537455306a6738355253",
+   "downloadUrl": "https://climaster.game-idolypride.jp/InviteHostReward/cac5e7322c1c3526c97b70ab7441c3515411e43375f8688bc2b496dfcf7a4b42"
+  },
+  {
+   "type": "InviteSetting",
+   "fileName": "fdbf023d8886dc42d0923ac4f0a4f58899a9aa34884ebd22ebbabe5006a9ac75",
+   "fileSize": 12288,
+   "cryptoKey": "79787453564c6550365258564d32505574647741656f5470703458767a613952",
+   "downloadUrl": "https://climaster.game-idolypride.jp/InviteSetting/fdbf023d8886dc42d0923ac4f0a4f58899a9aa34884ebd22ebbabe5006a9ac75"
+  },
+  {
+   "type": "Item",
+   "fileName": "42e8d370210ffd2ba1fb508a80afdda40edddb6a944edc87dadc3306c1a4400e",
+   "fileSize": 552960,
+   "cryptoKey": "6b6f4c3366646e52446970747732787a5235365a314871344d66645a39543341",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Item/42e8d370210ffd2ba1fb508a80afdda40edddb6a944edc87dadc3306c1a4400e"
+  },
+  {
+   "type": "LiveAbility",
+   "fileName": "22c31d6373c2ee81a09bb31ebee47450867792f7b84c9cd7d930f19dff7bf591",
+   "fileSize": 405504,
+   "cryptoKey": "594e337164416854355538576d4c50654c64567463713471635a693238744450",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LiveAbility/22c31d6373c2ee81a09bb31ebee47450867792f7b84c9cd7d930f19dff7bf591"
+  },
+  {
+   "type": "LiveBonus",
+   "fileName": "4e78c03f716f2075af4eece1cb5fb202546b54f8fe9f37440f0929baa48350a2",
+   "fileSize": 40960,
+   "cryptoKey": "427279784653464756644c61493241334d7068716339434c467a4b5a44624a48",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LiveBonus/4e78c03f716f2075af4eece1cb5fb202546b54f8fe9f37440f0929baa48350a2"
+  },
+  {
+   "type": "LiveBonusGroup",
+   "fileName": "97ee0949ec1f4b94866f1c841f49c70526ea11f7125bf167faba78d551c4c763",
+   "fileSize": 36864,
+   "cryptoKey": "78687a7570544368646c307251355038617531734a63594a4157746a69493966",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LiveBonusGroup/97ee0949ec1f4b94866f1c841f49c70526ea11f7125bf167faba78d551c4c763"
+  },
+  {
+   "type": "LiveResultAnimation",
+   "fileName": "e77cf657056e753bf7ef735c46b06cf15c2d01eaf9855f1bfb644a4b929f351b",
+   "fileSize": 12288,
+   "cryptoKey": "4742556e4f4f347654787859797a44504a566c335a786465394f35724a37304d",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LiveResultAnimation/e77cf657056e753bf7ef735c46b06cf15c2d01eaf9855f1bfb644a4b929f351b"
+  },
+  {
+   "type": "LiveStartAnimation",
+   "fileName": "4e3c023431c09f6ec6ae55a944c9a478aa04c13b4b26415be7d5f285e855a39c",
+   "fileSize": 12288,
+   "cryptoKey": "5a4f6f62514d594a476f306f78687675787475383170516a5772524a766f6d6e",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LiveStartAnimation/4e3c023431c09f6ec6ae55a944c9a478aa04c13b4b26415be7d5f285e855a39c"
+  },
+  {
+   "type": "LiveStartVoiceAssetGroup",
+   "fileName": "ac44ce6f71b4c7a6d774a9bff117a53e8f6c0bdacce23b0a08d01ea3bd90e2c5",
+   "fileSize": 36864,
+   "cryptoKey": "6a4550585055625438646467464d374e66686c3956506a304531355246486f53",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LiveStartVoiceAssetGroup/ac44ce6f71b4c7a6d774a9bff117a53e8f6c0bdacce23b0a08d01ea3bd90e2c5"
+  },
+  {
+   "type": "LiveTip",
+   "fileName": "9d6f8ef5ab4b94694532f80f292ba0cb0695214a81c9c2f75b3b2da8116a7e2a",
+   "fileSize": 20480,
+   "cryptoKey": "75527a446535317779313739433542636659514935516d576671444b46716975",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LiveTip/9d6f8ef5ab4b94694532f80f292ba0cb0695214a81c9c2f75b3b2da8116a7e2a"
+  },
+  {
+   "type": "Loading",
+   "fileName": "014cc70551b9e1a53446dcc2c154b72fe2e0886e528d7c2517824d18367a7c46",
+   "fileSize": 24576,
+   "cryptoKey": "4e5671455644745a52596e527a354777786e733554446e6937416b7638537235",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Loading/014cc70551b9e1a53446dcc2c154b72fe2e0886e528d7c2517824d18367a7c46"
+  },
+  {
+   "type": "LoginBonus",
+   "fileName": "41acd9bfa97348fff8d57c0aff3b688357e208a3e91cc51e05ede3260eb29d8f",
+   "fileSize": 114688,
+   "cryptoKey": "53666157707669457a344b5a5837567a46776d7653555741484e4856494a5a65",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LoginBonus/41acd9bfa97348fff8d57c0aff3b688357e208a3e91cc51e05ede3260eb29d8f"
+  },
+  {
+   "type": "LoginBonusText",
+   "fileName": "1ba25f6c42f525286699ddae10c1c4f47c077cb09b5a6c124b692060e3d0d1ad",
+   "fileSize": 12288,
+   "cryptoKey": "785436796f3541335055753768653663636d4a624a564f7956346c6d50594474",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LoginBonusText/1ba25f6c42f525286699ddae10c1c4f47c077cb09b5a6c124b692060e3d0d1ad"
+  },
+  {
+   "type": "LoveColor",
+   "fileName": "f21000a5a8798ae81407151af8dfba7e71387d1ae3599d7e0e1e62c7f07c2646",
+   "fileSize": 12288,
+   "cryptoKey": "7457346e3558625253596d437779714b7a7253316146534e4672505448654434",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LoveColor/f21000a5a8798ae81407151af8dfba7e71387d1ae3599d7e0e1e62c7f07c2646"
+  },
+  {
+   "type": "LoveHomeAction",
+   "fileName": "6274ae80dd1eb7772d7a580b41fa225fdd7e2480cb6e08e1aa92e239b522f6e2",
+   "fileSize": 114688,
+   "cryptoKey": "3464534f77734a4a6c4f44766b4c384a414555424936556c3968373842654e6f",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LoveHomeAction/6274ae80dd1eb7772d7a580b41fa225fdd7e2480cb6e08e1aa92e239b522f6e2"
+  },
+  {
+   "type": "LoveLevel",
+   "fileName": "e4fdaa2a28da5950c0bd4d00928322fdb5e979f07a6fcafc14da1fc82334cd3c",
+   "fileSize": 12288,
+   "cryptoKey": "4c4467424568414d594f726c6e7051383569715a327766395563703979526e33",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LoveLevel/e4fdaa2a28da5950c0bd4d00928322fdb5e979f07a6fcafc14da1fc82334cd3c"
+  },
+  {
+   "type": "LoveStoryEpisode",
+   "fileName": "a2e2a2fc97934c51667bd29a015372aa5b2d0ccaec61248b7eb3d7ac7c37d90b",
+   "fileSize": 24576,
+   "cryptoKey": "74556835684c4b6479434e525845624a474e374355344f5672676f75764b4177",
+   "downloadUrl": "https://climaster.game-idolypride.jp/LoveStoryEpisode/a2e2a2fc97934c51667bd29a015372aa5b2d0ccaec61248b7eb3d7ac7c37d90b"
+  },
+  {
+   "type": "MarathonBoxGachaSetting",
+   "fileName": "cd09a1503ac847d1bd3d2f2a3c9172b6e6472051a5805940b41fc7f5931e314f",
+   "fileSize": 36864,
+   "cryptoKey": "59334f4e4e42534b4f756c386531555376596c4d4b634578724946786b324756",
+   "downloadUrl": "https://climaster.game-idolypride.jp/MarathonBoxGachaSetting/cd09a1503ac847d1bd3d2f2a3c9172b6e6472051a5805940b41fc7f5931e314f"
+  },
+  {
+   "type": "MarathonLiveBonusGroup",
+   "fileName": "3665e48e7f6985ea8ec47717de7666f58659d9d21ff3285d2790638f8f00996e",
+   "fileSize": 45056,
+   "cryptoKey": "4d436a4f437045614c514344574d5a574b6d39726c634b7272696d6a6c33516c",
+   "downloadUrl": "https://climaster.game-idolypride.jp/MarathonLiveBonusGroup/3665e48e7f6985ea8ec47717de7666f58659d9d21ff3285d2790638f8f00996e"
+  },
+  {
+   "type": "MarathonLiveBonus",
+   "fileName": "0ace0c47a36700eb30a3ee1673a4abc938095e13a70a4bf6adfc38aaa1a3f102",
+   "fileSize": 45056,
+   "cryptoKey": "336f3763585a5a525544595a37464b6645307a3432596557594e61373276726b",
+   "downloadUrl": "https://climaster.game-idolypride.jp/MarathonLiveBonus/0ace0c47a36700eb30a3ee1673a4abc938095e13a70a4bf6adfc38aaa1a3f102"
+  },
+  {
+   "type": "MarathonQuestDifficulty",
+   "fileName": "2610a2862244628461ffa275621e5a8f68adf1ca2d8420f70c4bf7e6ef0f1a65",
+   "fileSize": 499712,
+   "cryptoKey": "3537666a386e367a794361654261654132335a5a35364c4454546a5264327245",
+   "downloadUrl": "https://climaster.game-idolypride.jp/MarathonQuestDifficulty/2610a2862244628461ffa275621e5a8f68adf1ca2d8420f70c4bf7e6ef0f1a65"
+  },
+  {
+   "type": "MarathonQuest",
+   "fileName": "46fe90a0a94244de1709155b09accb2c3b7bb1cab702e4cc19ec1f5005c99daa",
+   "fileSize": 61440,
+   "cryptoKey": "696a783865726f7959624362534b57536d3134646f517a61446438686f683738",
+   "downloadUrl": "https://climaster.game-idolypride.jp/MarathonQuest/46fe90a0a94244de1709155b09accb2c3b7bb1cab702e4cc19ec1f5005c99daa"
+  },
+  {
+   "type": "ManagerLevel",
+   "fileName": "7c8caf021dbfbe1195a2fe00ade06bdfa453312b4c495c766246c7ac7f64d346",
+   "fileSize": 16384,
+   "cryptoKey": "3550766a47463934396e35593664636436725863724c59553532516151716d35",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ManagerLevel/7c8caf021dbfbe1195a2fe00ade06bdfa453312b4c495c766246c7ac7f64d346"
+  },
+  {
+   "type": "MessageGroup",
+   "fileName": "7c8a4c01034ec066ead30960b2572a75afb50ead3fcf816a2b72fedf0f70f69c",
+   "fileSize": 20480,
+   "cryptoKey": "32515967784e5a7862347a704f6b4f3137473541536462665965766b734a5168",
+   "downloadUrl": "https://climaster.game-idolypride.jp/MessageGroup/7c8a4c01034ec066ead30960b2572a75afb50ead3fcf816a2b72fedf0f70f69c"
+  },
+  {
+   "type": "Message",
+   "fileName": "2e3d369fc04f69c7d0a3ce23e3224991223955c671742fa7ff90d6f31443ed51",
+   "fileSize": 4636672,
+   "cryptoKey": "5871504646584754545a754279747a6373756f396f6d6a725649693972685841",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Message/2e3d369fc04f69c7d0a3ce23e3224991223955c671742fa7ff90d6f31443ed51"
+  },
+  {
+   "type": "Mission",
+   "fileName": "a9e1fdbf5b0effabd4b7407cca5cfaeaace3653226b088163f2180756c7fe581",
+   "fileSize": 5095424,
+   "cryptoKey": "4738375154745871756c6a414150663077696670336f476f5173555658317359",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Mission/a9e1fdbf5b0effabd4b7407cca5cfaeaace3653226b088163f2180756c7fe581"
+  },
+  {
+   "type": "MusicChartPattern",
+   "fileName": "853c37225807184ad909b73ca06311bb69736249c4a0bce08ab30ac09885d924",
+   "fileSize": 2756608,
+   "cryptoKey": "435146785a4d763837785a56684b735479667974547447484a6549424e764862",
+   "downloadUrl": "https://climaster.game-idolypride.jp/MusicChartPattern/853c37225807184ad909b73ca06311bb69736249c4a0bce08ab30ac09885d924"
+  },
+  {
+   "type": "MusicMasteryLevel",
+   "fileName": "42c8bdc09d9eb4a9faf9fb281b5fbad4155cbccb08c1ccf342bd7fdc83b2c052",
+   "fileSize": 8192,
+   "cryptoKey": "43395143736d366b7335485a6f4f6932446d4441567837334a43456e566b535a",
+   "downloadUrl": "https://climaster.game-idolypride.jp/MusicMasteryLevel/42c8bdc09d9eb4a9faf9fb281b5fbad4155cbccb08c1ccf342bd7fdc83b2c052"
+  },
+  {
+   "type": "MusicMasteryReward",
+   "fileName": "4a2028a19a8942d6c323f95e578e065110a34f9ef4e9c22a3f33e08eb291e6dd",
+   "fileSize": 266240,
+   "cryptoKey": "585253333935356376685a6a696a6157765541334c414f514a684f7454516159",
+   "downloadUrl": "https://climaster.game-idolypride.jp/MusicMasteryReward/4a2028a19a8942d6c323f95e578e065110a34f9ef4e9c22a3f33e08eb291e6dd"
+  },
+  {
+   "type": "MusicMasteryRewardSet",
+   "fileName": "0d15937406a3def163bc952c9a7ac20dd97ce1b8d11d01d0ae95f3c59d0231bd",
+   "fileSize": 12288,
+   "cryptoKey": "5841473367715033717a4a33393933377262643337334f5259503650456d6f37",
+   "downloadUrl": "https://climaster.game-idolypride.jp/MusicMasteryRewardSet/0d15937406a3def163bc952c9a7ac20dd97ce1b8d11d01d0ae95f3c59d0231bd"
+  },
+  {
+   "type": "Music",
+   "fileName": "751e0e155907d65036f2451f7a135210b2bdb1efe83e275dfdde687efcccad84",
+   "fileSize": 274432,
+   "cryptoKey": "6c654a6567686c527769666b684f726c53694c386c65704444304a42326f6666",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Music/751e0e155907d65036f2451f7a135210b2bdb1efe83e275dfdde687efcccad84"
+  },
+  {
+   "type": "OrnamentHair",
+   "fileName": "2f60ada4f6d65e490223e151ad6ed59a4f7975798aaf5beba13b970b4630207d",
+   "fileSize": 12288,
+   "cryptoKey": "75374750716c374c4a306c476559374b457961437a565a31735167416b505977",
+   "downloadUrl": "https://climaster.game-idolypride.jp/OrnamentHair/2f60ada4f6d65e490223e151ad6ed59a4f7975798aaf5beba13b970b4630207d"
+  },
+  {
+   "type": "PhotoAbility",
+   "fileName": "d5e809ee92df3f5cf968b53c3144cf3832229f51d0379c43fbc345fd21a38509",
+   "fileSize": 237568,
+   "cryptoKey": "70696b6d3450774e57526d3066737557434c7a4a375a4b54737058796c385553",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoAbility/d5e809ee92df3f5cf968b53c3144cf3832229f51d0379c43fbc345fd21a38509"
+  },
+  {
+   "type": "PhotoAbilitySet",
+   "fileName": "0ee860c666d8d5618c865312fea3671f581cf32d2cff2fe9a658e5f014257aa1",
+   "fileSize": 888832,
+   "cryptoKey": "324a30375438756f516e6633474d6c5769556c50486a675242554a774e4c7049",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoAbilitySet/0ee860c666d8d5618c865312fea3671f581cf32d2cff2fe9a658e5f014257aa1"
+  },
+  {
+   "type": "PhotoAbilityTarget",
+   "fileName": "413c133bdd71b0a1abb437752a6699d684cfbc0b16ecc3244e05e7511b78f735",
+   "fileSize": 12288,
+   "cryptoKey": "50386e5546586378717058594763554477744f646d76456c4a45685432437256",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoAbilityTarget/413c133bdd71b0a1abb437752a6699d684cfbc0b16ecc3244e05e7511b78f735"
+  },
+  {
+   "type": "PhotoAllInOne",
+   "fileName": "f2848422ab69e22ef4ca9e246d4c3f551159cc8a0c2e10cbcd83e92a56fa7a01",
+   "fileSize": 122880,
+   "cryptoKey": "577171464e556f714a6d4251636561534954655574456d4d44746168366d5241",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoAllInOne/f2848422ab69e22ef4ca9e246d4c3f551159cc8a0c2e10cbcd83e92a56fa7a01"
+  },
+  {
+   "type": "PhotoContestActivity",
+   "fileName": "92c89756df7807dab44d0cd98a53848013759970ca7cea5a2684415a542c2ecf",
+   "fileSize": 24576,
+   "cryptoKey": "6b6c6449736e45735079314d3744624c596255513959516264334476624c4141",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoContestActivity/92c89756df7807dab44d0cd98a53848013759970ca7cea5a2684415a542c2ecf"
+  },
+  {
+   "type": "PhotoContestQuestMusic",
+   "fileName": "70c9d62843001f2eeb572ed5e72793a4eb7cbba6715d485457779a9c9c48e3f5",
+   "fileSize": 32768,
+   "cryptoKey": "686a346f7278506949383235377255414453456b6e516b714b7259774c386d37",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoContestQuestMusic/70c9d62843001f2eeb572ed5e72793a4eb7cbba6715d485457779a9c9c48e3f5"
+  },
+  {
+   "type": "PhotoContestQuestStage",
+   "fileName": "f6175beab7cb94456856430e6bd41492c233f231ff150d42a8dc6753ecec3e30",
+   "fileSize": 20480,
+   "cryptoKey": "63545857654f5a4476524e7346576e454d6b35364f627839665a51645330757a",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoContestQuestStage/f6175beab7cb94456856430e6bd41492c233f231ff150d42a8dc6753ecec3e30"
+  },
+  {
+   "type": "PhotoContestSection",
+   "fileName": "f49dfc04d8c346009907d6d3efe119bea42124c4bb4b1e12654b9d2131ee031e",
+   "fileSize": 24576,
+   "cryptoKey": "787939634a526d78773048374168756b745a7344466665774856746c6f774647",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoContestSection/f49dfc04d8c346009907d6d3efe119bea42124c4bb4b1e12654b9d2131ee031e"
+  },
+  {
+   "type": "PhotoContestSectionReward",
+   "fileName": "cabff8c25e581a85dc1d039082df766d9b1f25ff62be98b348a9d3aaa1b95a56",
+   "fileSize": 135168,
+   "cryptoKey": "397671374531545a78314f6476506652574b5778444473324b73393749393965",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoContestSectionReward/cabff8c25e581a85dc1d039082df766d9b1f25ff62be98b348a9d3aaa1b95a56"
+  },
+  {
+   "type": "PhotoActivity",
+   "fileName": "228c13928dabbfd8c22a8922079d1a99315e37d7f1a22a7a8d7ab04d6d172276",
+   "fileSize": 24576,
+   "cryptoKey": "6e6c4b65566c4a6e6a466731657671757a6a39496f4754334f5a614754756941",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoActivity/228c13928dabbfd8c22a8922079d1a99315e37d7f1a22a7a8d7ab04d6d172276"
+  },
+  {
+   "type": "PhotoExpression",
+   "fileName": "920d9d5eb7255f444565955c5391a985cdfdc54fcfd61d19a185a947097c2b09",
+   "fileSize": 32768,
+   "cryptoKey": "586d6d444a455070493043794e5931577754396559697748696f59447258564b",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoExpression/920d9d5eb7255f444565955c5391a985cdfdc54fcfd61d19a185a947097c2b09"
+  },
+  {
+   "type": "PhotoExpressionStagePosition",
+   "fileName": "fbdb60d3e3c3d0a78258ce97445ea8181fc6197add1c682b40418b3f55acd7c7",
+   "fileSize": 20480,
+   "cryptoKey": "6a31537358314b76344239314e7a365243366d624e366a7747364671324e5657",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoExpressionStagePosition/fbdb60d3e3c3d0a78258ce97445ea8181fc6197add1c682b40418b3f55acd7c7"
+  },
+  {
+   "type": "PhotoFacial",
+   "fileName": "3594cdf30b8cad9aae08ab251ba25b992d3c10e2523ede1e232c23e097a1c2ec",
+   "fileSize": 12288,
+   "cryptoKey": "6a62534163314e6644536965706a637454744d7664525761536a306c64485649",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoFacial/3594cdf30b8cad9aae08ab251ba25b992d3c10e2523ede1e232c23e097a1c2ec"
+  },
+  {
+   "type": "PhotoFacialMotion",
+   "fileName": "94a0febf789c93f44e1ba0c12bae4abd0266191751ef49b7f292f53262b5a18f",
+   "fileSize": 45056,
+   "cryptoKey": "54344131566f3043564b717a69534c747375424a676c47576c4e72504b734d35",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoFacialMotion/94a0febf789c93f44e1ba0c12bae4abd0266191751ef49b7f292f53262b5a18f"
+  },
+  {
+   "type": "PhotoPose",
+   "fileName": "93f183da92933f8b7a5bcb4d9af38627c63cf419f31e0030bbe6170475fc29b1",
+   "fileSize": 40960,
+   "cryptoKey": "444b475561394970765646516d4735754b3532454b54574e44324f64496a766a",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoPose/93f183da92933f8b7a5bcb4d9af38627c63cf419f31e0030bbe6170475fc29b1"
+  },
+  {
+   "type": "PhotoPoseMotion",
+   "fileName": "c3c226d89c41f279743f181f347d350828947c4cad31bb541be01c18e831548e",
+   "fileSize": 401408,
+   "cryptoKey": "5344793666626249756359616f514545654645495977506444444c6179465073",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoPoseMotion/c3c226d89c41f279743f181f347d350828947c4cad31bb541be01c18e831548e"
+  },
+  {
+   "type": "PhotoQuestMusic",
+   "fileName": "5bd639c7320fcb506d96c89830763b58626d64f098538a73bd234b412fad8aa4",
+   "fileSize": 36864,
+   "cryptoKey": "47534b6578475078786e3146496d6a6643424770584b68447241636f35445379",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoQuestMusic/5bd639c7320fcb506d96c89830763b58626d64f098538a73bd234b412fad8aa4"
+  },
+  {
+   "type": "PhotoQuestStage",
+   "fileName": "91bec90ce6cd3fcfe2d253f8157490009fbe09bd1a88d684d7486db4e4da548f",
+   "fileSize": 12288,
+   "cryptoKey": "467a70723434694b3868756d7672516f45757153416747765539666750426632",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoQuestStage/91bec90ce6cd3fcfe2d253f8157490009fbe09bd1a88d684d7486db4e4da548f"
+  },
+  {
+   "type": "PhotoRarityLevel",
+   "fileName": "660199c644189b373759b8a2f23a7f08c596b587244c37640f0f3175e29f4f46",
+   "fileSize": 20480,
+   "cryptoKey": "52434b4e767174587077365a5152457452483970304c596f336a796573547944",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoRarityLevel/660199c644189b373759b8a2f23a7f08c596b587244c37640f0f3175e29f4f46"
+  },
+  {
+   "type": "PhotoRecipe",
+   "fileName": "04b9acda828a48eb6bec61178fa4dff80b90aab52e1fb332c777179c10921bd0",
+   "fileSize": 3338240,
+   "cryptoKey": "49385574744c713253565a5030704470776b4277626e74357630416f32656246",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoRecipe/04b9acda828a48eb6bec61178fa4dff80b90aab52e1fb332c777179c10921bd0"
+  },
+  {
+   "type": "PhotoRetouchEnhance",
+   "fileName": "c7b1a5f9ac6ff44f54b8313898fe1736300665fa026e5cc81a56abe7f7e4ee80",
+   "fileSize": 40960,
+   "cryptoKey": "713239696f665838305978694265494a64734a484c6b765a7667486345476331",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoRetouchEnhance/c7b1a5f9ac6ff44f54b8313898fe1736300665fa026e5cc81a56abe7f7e4ee80"
+  },
+  {
+   "type": "PhotoShootingCharacterMotion",
+   "fileName": "58c46a286f314ce60f4d86e2016858d23f9237cee933629d073b0107c01abe3a",
+   "fileSize": 12288,
+   "cryptoKey": "57797551683168314250574641566a5451543234467964566574613164586765",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoShootingCharacterMotion/58c46a286f314ce60f4d86e2016858d23f9237cee933629d073b0107c01abe3a"
+  },
+  {
+   "type": "PhotoShootingMotionSet",
+   "fileName": "e33cd9c242f2a4f859c7dea5521686bef0e02310d4d8224ac227647403e04711",
+   "fileSize": 12288,
+   "cryptoKey": "4d31357476385965785130526159554c594551614f7637306b5749423472774b",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoShootingMotionSet/e33cd9c242f2a4f859c7dea5521686bef0e02310d4d8224ac227647403e04711"
+  },
+  {
+   "type": "PhotoShootingReplaceCharacter",
+   "fileName": "cdec04c11474717c8b78076008870f380c93fb229eb1c18b69f485d654042dc7",
+   "fileSize": 12288,
+   "cryptoKey": "54356a6a434a6232416957583859537047427147584335504f716d6865556c4c",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoShootingReplaceCharacter/cdec04c11474717c8b78076008870f380c93fb229eb1c18b69f485d654042dc7"
+  },
+  {
+   "type": "PhotoShootingSimplePersonalityMotion",
+   "fileName": "969eea2957bf0cba4bba3ce8c9b71c5e961a2a05bd15f2917b514e121142b294",
+   "fileSize": 57344,
+   "cryptoKey": "3872306233415176586f534b68683774457635337a6478343864666c37766970",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoShootingSimplePersonalityMotion/969eea2957bf0cba4bba3ce8c9b71c5e961a2a05bd15f2917b514e121142b294"
+  },
+  {
+   "type": "PhotoSituation",
+   "fileName": "68cc4c68b19069193549c4c758613ac82b058d451601f4967accd6ef3a2f3106",
+   "fileSize": 12288,
+   "cryptoKey": "756e4b4f6f544f65466437434839524c74327356476f736333716d5075305548",
+   "downloadUrl": "https://climaster.game-idolypride.jp/PhotoSituation/68cc4c68b19069193549c4c758613ac82b058d451601f4967accd6ef3a2f3106"
+  },
+  {
+   "type": "QuestAudienceAdvantage",
+   "fileName": "e060ec8153e7be74b88f4f7acaa0bd8323e9d5551cac4b88ac6083ba1f94ccb4",
+   "fileSize": 126976,
+   "cryptoKey": "674d58456a796f667a5358456159376c636f4a506f723574544e636333587939",
+   "downloadUrl": "https://climaster.game-idolypride.jp/QuestAudienceAdvantage/e060ec8153e7be74b88f4f7acaa0bd8323e9d5551cac4b88ac6083ba1f94ccb4"
+  },
+  {
+   "type": "QuestCharacterAdvantage",
+   "fileName": "7f1e6c8fbd2e82585904c49e82d1c8171e0cc7d1b5b56d7e98f5b527278feeec",
+   "fileSize": 24576,
+   "cryptoKey": "347a62347a724c4a31666a4769444f6d4d4c4d694a6b4b707437326e64493471",
+   "downloadUrl": "https://climaster.game-idolypride.jp/QuestCharacterAdvantage/7f1e6c8fbd2e82585904c49e82d1c8171e0cc7d1b5b56d7e98f5b527278feeec"
+  },
+  {
+   "type": "QuestContestRankingSeason",
+   "fileName": "afaae782e384292a674a98a1e32cff5d9a7abda24cd373a63b530d74a7e2a7fe",
+   "fileSize": 12288,
+   "cryptoKey": "38414a476b486b73304643326c366d415a4e4641394b704a5868476779774779",
+   "downloadUrl": "https://climaster.game-idolypride.jp/QuestContestRankingSeason/afaae782e384292a674a98a1e32cff5d9a7abda24cd373a63b530d74a7e2a7fe"
+  },
+  {
+   "type": "Quest",
+   "fileName": "ddd932a6c782648847df37b31673141e0115afdf73e2e942db7be240c2c79aac",
+   "fileSize": 2465792,
+   "cryptoKey": "316946374130786e54306f753469716e6f47477a5358694c7078764342514a78",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Quest/ddd932a6c782648847df37b31673141e0115afdf73e2e942db7be240c2c79aac"
+  },
+  {
+   "type": "QuestPressure",
+   "fileName": "8162ee7786a6c69c3b5b863aeff6734327c9004873a6df3b96a270a7a8fc5320",
+   "fileSize": 12288,
+   "cryptoKey": "637151387376673645794a487a665362306a6a616d75556d6f4b35597a4c4152",
+   "downloadUrl": "https://climaster.game-idolypride.jp/QuestPressure/8162ee7786a6c69c3b5b863aeff6734327c9004873a6df3b96a270a7a8fc5320"
+  },
+  {
+   "type": "QuestStaminaConsumption",
+   "fileName": "7b6a539b3016d985c68b72e0774a760a4df49b795a15159a902b12a3d0f7d7a2",
+   "fileSize": 8192,
+   "cryptoKey": "4b4b47775965726c5a3669345742413647425043346b63673367386c474d4269",
+   "downloadUrl": "https://climaster.game-idolypride.jp/QuestStaminaConsumption/7b6a539b3016d985c68b72e0774a760a4df49b795a15159a902b12a3d0f7d7a2"
+  },
+  {
+   "type": "RaceLiveBonus",
+   "fileName": "6bfd6f4f3eeb1e921b2ed4735021ce147e79f73b005ee6d37cdc1e14015dec63",
+   "fileSize": 204800,
+   "cryptoKey": "6a6c586379377275736269336e6345356d3979686f754370396549616a375647",
+   "downloadUrl": "https://climaster.game-idolypride.jp/RaceLiveBonus/6bfd6f4f3eeb1e921b2ed4735021ce147e79f73b005ee6d37cdc1e14015dec63"
+  },
+  {
+   "type": "RaceLiveBonusGroup",
+   "fileName": "f2b932077bc52e609649473e5a735baa7d997708a09b77fd83e2749876474e4b",
+   "fileSize": 12288,
+   "cryptoKey": "397a5a3551797337666e71444853635070557730525132594a4a326a414c4e61",
+   "downloadUrl": "https://climaster.game-idolypride.jp/RaceLiveBonusGroup/f2b932077bc52e609649473e5a735baa7d997708a09b77fd83e2749876474e4b"
+  },
+  {
+   "type": "RacePanel",
+   "fileName": "527886134f20ca3a1829f5b3b1799f329411fa9ff9ead228a4962bde498e88cf",
+   "fileSize": 339968,
+   "cryptoKey": "34575a5a307168424654356a50446f306132654e4b6b354b4476734d32533646",
+   "downloadUrl": "https://climaster.game-idolypride.jp/RacePanel/527886134f20ca3a1829f5b3b1799f329411fa9ff9ead228a4962bde498e88cf"
+  },
+  {
+   "type": "RacePanelReward",
+   "fileName": "c9d2516289bd83f74444f9f4f8a6ad64ac7f8893a79fd98e5a1aa044c57b4a1c",
+   "fileSize": 139264,
+   "cryptoKey": "4672766f4551437332457159324948516d7651554577324637786c7072357451",
+   "downloadUrl": "https://climaster.game-idolypride.jp/RacePanelReward/c9d2516289bd83f74444f9f4f8a6ad64ac7f8893a79fd98e5a1aa044c57b4a1c"
+  },
+  {
+   "type": "RaceQuest",
+   "fileName": "a5baf78908f2eb610629091f529fec33167fac1d921ee4bcade7c3ec158ed09c",
+   "fileSize": 159744,
+   "cryptoKey": "434d7a57616659524d716b4252764e6a7861416475447551647a5677334d364e",
+   "downloadUrl": "https://climaster.game-idolypride.jp/RaceQuest/a5baf78908f2eb610629091f529fec33167fac1d921ee4bcade7c3ec158ed09c"
+  },
+  {
+   "type": "RaceQuestDifficulty",
+   "fileName": "061eb29f26c9a487097693407562e05abc4834c70e2e87831fbba333e2e3af4a",
+   "fileSize": 819200,
+   "cryptoKey": "6e4d4f6c6b556164337354304e614c5369745638495a72694e6d304f765a4d67",
+   "downloadUrl": "https://climaster.game-idolypride.jp/RaceQuestDifficulty/061eb29f26c9a487097693407562e05abc4834c70e2e87831fbba333e2e3af4a"
+  },
+  {
+   "type": "RaceRankingReward",
+   "fileName": "84933ce98b1b0e56000fe8979530f14810ce8183b55ec42dda641bc62f5c8294",
+   "fileSize": 20480,
+   "cryptoKey": "67567a495755726643624147577932676f6e73324b4741514b76564c68744d30",
+   "downloadUrl": "https://climaster.game-idolypride.jp/RaceRankingReward/84933ce98b1b0e56000fe8979530f14810ce8183b55ec42dda641bc62f5c8294"
+  },
+  {
+   "type": "Reward",
+   "fileName": "a0257061d224fd5dff2155a9068cc6047af79ae85592ad468906583cf438fa86",
+   "fileSize": 10686464,
+   "cryptoKey": "497555596f4f5735516549745a47627070414162343071763268717566504b79",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Reward/a0257061d224fd5dff2155a9068cc6047af79ae85592ad468906583cf438fa86"
+  },
+  {
+   "type": "RewardSort",
+   "fileName": "c9301e397e981b526de30f087077ec1cb0dba48cc235e0e2e53e4def330a00b8",
+   "fileSize": 12288,
+   "cryptoKey": "566b6e714330786266765a644a5457636a365341624663586d546d6a4b334565",
+   "downloadUrl": "https://climaster.game-idolypride.jp/RewardSort/c9301e397e981b526de30f087077ec1cb0dba48cc235e0e2e53e4def330a00b8"
+  },
+  {
+   "type": "Salary",
+   "fileName": "8e86497741dba2f46c7fa4f88c60ca1347b6a7fe9e8e9539bf14cfd2f71dbf49",
+   "fileSize": 32768,
+   "cryptoKey": "52453544476e72717175474465776f76576c4d69437963345662764264675254",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Salary/8e86497741dba2f46c7fa4f88c60ca1347b6a7fe9e8e9539bf14cfd2f71dbf49"
+  },
+  {
+   "type": "Setting",
+   "fileName": "f98277e4d64f782eb7b05fe0ac64c18f04101559c58dd822768ab24c298bfd75",
+   "fileSize": 12288,
+   "cryptoKey": "514d426c594d327657345570416970526978334c67376c7574396f6238474266",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Setting/f98277e4d64f782eb7b05fe0ac64c18f04101559c58dd822768ab24c298bfd75"
+  },
+  {
+   "type": "ShowcaseFrame",
+   "fileName": "f4beedb28b391f7d71b0670d7bde7e0331c1842544609ee1c87e7a5109a25118",
+   "fileSize": 12288,
+   "cryptoKey": "654832424c7178316b646b4c6e6c54476279754d436c4f423458383354386e76",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ShowcaseFrame/f4beedb28b391f7d71b0670d7bde7e0331c1842544609ee1c87e7a5109a25118"
+  },
+  {
+   "type": "ShowcaseHashtag",
+   "fileName": "2f29807ee8ca126c2655ff3b6704cef376ddc420f36d6d9ebb6c482cc1024b85",
+   "fileSize": 12288,
+   "cryptoKey": "6e4a344f30666f73387834344a47523172756558665765667132624567644473",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ShowcaseHashtag/2f29807ee8ca126c2655ff3b6704cef376ddc420f36d6d9ebb6c482cc1024b85"
+  },
+  {
+   "type": "ShowcaseMusic",
+   "fileName": "28fe638dcd5499aec5abf6e27dccf87f677d81682f34dfdaf5cee5e31e5dc741",
+   "fileSize": 20480,
+   "cryptoKey": "493631716457444167744a317644394e54787267396f7a30615163586b49716b",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ShowcaseMusic/28fe638dcd5499aec5abf6e27dccf87f677d81682f34dfdaf5cee5e31e5dc741"
+  },
+  {
+   "type": "ShowcaseMusicFilter",
+   "fileName": "78c5db91740a80aa098d3ba1479325ac8154c4b5b4c0d2c80e2529e3a5024193",
+   "fileSize": 12288,
+   "cryptoKey": "7269786a41786644426a7a704d495972683479364848686936753758686d4850",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ShowcaseMusicFilter/78c5db91740a80aa098d3ba1479325ac8154c4b5b4c0d2c80e2529e3a5024193"
+  },
+  {
+   "type": "ShowcaseSetting",
+   "fileName": "ac0ec1b598819b2e6cba5ff9875b9f9a20c25df799fbe2a38d42fe6d654afe8c",
+   "fileSize": 12288,
+   "cryptoKey": "78706c53417474415743354a7176544b726959495147726a4a53516b48496979",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ShowcaseSetting/ac0ec1b598819b2e6cba5ff9875b9f9a20c25df799fbe2a38d42fe6d654afe8c"
+  },
+  {
+   "type": "ShowcaseToy",
+   "fileName": "b0932064a5909ca694cb0e74ac121301a7cb18e56ef6337aa7e1f628105c961f",
+   "fileSize": 397312,
+   "cryptoKey": "516d7476636c3867494b526337386665577741525745644644584c6e44303437",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ShowcaseToy/b0932064a5909ca694cb0e74ac121301a7cb18e56ef6337aa7e1f628105c961f"
+  },
+  {
+   "type": "ShowcaseToyCategory",
+   "fileName": "2add903993bf4d75f4e6d651d215b3cf2752136a748441fe575afcab728889e1",
+   "fileSize": 12288,
+   "cryptoKey": "64627a554778546168517a53596c753967304f5357387531454f694b56754e38",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ShowcaseToyCategory/2add903993bf4d75f4e6d651d215b3cf2752136a748441fe575afcab728889e1"
+  },
+  {
+   "type": "ShowcaseToyShopFilter",
+   "fileName": "1578870314b85f17e8ad115abb4874841de8bf1ef86ab5e69cbf794d07384536",
+   "fileSize": 12288,
+   "cryptoKey": "7043514d79554b583156556b33443658784459504568497233574f505a6a6a58",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ShowcaseToyShopFilter/1578870314b85f17e8ad115abb4874841de8bf1ef86ab5e69cbf794d07384536"
+  },
+  {
+   "type": "SkillEfficacy",
+   "fileName": "854c6f08798181fc60efe84325569a22c6445a424fca49fbecbb3fcd9099fdf3",
+   "fileSize": 3694592,
+   "cryptoKey": "47344437394a39675865464a7434736a7559436a314e63543472716963413946",
+   "downloadUrl": "https://climaster.game-idolypride.jp/SkillEfficacy/854c6f08798181fc60efe84325569a22c6445a424fca49fbecbb3fcd9099fdf3"
+  },
+  {
+   "type": "Skill",
+   "fileName": "2ad1e8ef30d021a4da007595f7385c2bbc6e3fa984ec29f2d5de4a37f75dbf6e",
+   "fileSize": 5627904,
+   "cryptoKey": "435a306d7449436d39397344525831394d6b7579656851614348746a45504250",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Skill/2ad1e8ef30d021a4da007595f7385c2bbc6e3fa984ec29f2d5de4a37f75dbf6e"
+  },
+  {
+   "type": "SkillTarget",
+   "fileName": "8369d2dd2c5d2cce48c62f6535f2c3da6789fb8a87408a871616185582acf172",
+   "fileSize": 20480,
+   "cryptoKey": "575545587a44364d6571554f6253714b6b3275716d674e413341356956644374",
+   "downloadUrl": "https://climaster.game-idolypride.jp/SkillTarget/8369d2dd2c5d2cce48c62f6535f2c3da6789fb8a87408a871616185582acf172"
+  },
+  {
+   "type": "SkillTrigger",
+   "fileName": "4c828063a30765c342738bf7d674d26fb03ab7ae4beb9bf5947d38a4e95f404e",
+   "fileSize": 36864,
+   "cryptoKey": "44366b6a646b636374566e776b6e73486531456146515677656d51394b484e69",
+   "downloadUrl": "https://climaster.game-idolypride.jp/SkillTrigger/4c828063a30765c342738bf7d674d26fb03ab7ae4beb9bf5947d38a4e95f404e"
+  },
+  {
+   "type": "StaffLevel",
+   "fileName": "98af4709410bf5fe1e95df44c9a1d48513a467958bd4c37ae390ae3be45ea7da",
+   "fileSize": 36864,
+   "cryptoKey": "4a69655a584e636f565969784c3568364470426235625075376d6f6a426e7738",
+   "downloadUrl": "https://climaster.game-idolypride.jp/StaffLevel/98af4709410bf5fe1e95df44c9a1d48513a467958bd4c37ae390ae3be45ea7da"
+  },
+  {
+   "type": "StaffLevelLimitBreakRank",
+   "fileName": "5df4915f9048f9024eb75dd775731ab4f31d7bb03d7c72aef3bc5b0334eda8e5",
+   "fileSize": 12288,
+   "cryptoKey": "48455864787744426946646a6566483745544f6d78773366696c7259466e526d",
+   "downloadUrl": "https://climaster.game-idolypride.jp/StaffLevelLimitBreakRank/5df4915f9048f9024eb75dd775731ab4f31d7bb03d7c72aef3bc5b0334eda8e5"
+  },
+  {
+   "type": "StaffTraining",
+   "fileName": "57e7acd9ae11358dc4114f9cf1ec99c4dd0413b9adc84b8e0d4e8a5762faf79b",
+   "fileSize": 8192,
+   "cryptoKey": "656b697a4730654a6444645a576156565946754336784c34755074387976656b",
+   "downloadUrl": "https://climaster.game-idolypride.jp/StaffTraining/57e7acd9ae11358dc4114f9cf1ec99c4dd0413b9adc84b8e0d4e8a5762faf79b"
+  },
+  {
+   "type": "StaffTrainingReset",
+   "fileName": "47477c243f068f02f126073f6c9a25dac41d7e6639ac192d2d9d75969fdd9fe0",
+   "fileSize": 12288,
+   "cryptoKey": "3161694e5457665a72396a7965686f574c7a30636359395855656d7830676c30",
+   "downloadUrl": "https://climaster.game-idolypride.jp/StaffTrainingReset/47477c243f068f02f126073f6c9a25dac41d7e6639ac192d2d9d75969fdd9fe0"
+  },
+  {
+   "type": "StaffTrainingResetGroup",
+   "fileName": "7aa37998cc82b4bad57a0889da41d05a8d5cda5e4cfbad4ec4dbafa22fbc698a",
+   "fileSize": 12288,
+   "cryptoKey": "5636696c62355937524a565a74597239464370544673454876767a626a374654",
+   "downloadUrl": "https://climaster.game-idolypride.jp/StaffTrainingResetGroup/7aa37998cc82b4bad57a0889da41d05a8d5cda5e4cfbad4ec4dbafa22fbc698a"
+  },
+  {
+   "type": "Stage",
+   "fileName": "f53436b78a4266a44c3238d45407df19cb681b8b9c52c7f5fdc4c0eeca356b92",
+   "fileSize": 24576,
+   "cryptoKey": "4968626535765a3532437961784e433361316964536c784770636c6a59545268",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Stage/f53436b78a4266a44c3238d45407df19cb681b8b9c52c7f5fdc4c0eeca356b92"
+  },
+  {
+   "type": "StatusEffectName",
+   "fileName": "44f2a2b177f7902757b151579784fd98751e82619071b847a47c68d51b3d574a",
+   "fileSize": 8192,
+   "cryptoKey": "6369436e4f56324c7a4b4a763467576e46716c3570587148417a716f526d7853",
+   "downloadUrl": "https://climaster.game-idolypride.jp/StatusEffectName/44f2a2b177f7902757b151579784fd98751e82619071b847a47c68d51b3d574a"
+  },
+  {
+   "type": "StoreGppProduct",
+   "fileName": "662837174f6bf1e21ba9e4448ae1681a49de3bc1d66ee0728f3431be50da29eb",
+   "fileSize": 12288,
+   "cryptoKey": "394849615469754e414e686d6c44476e596f646739674545574949536e35776a",
+   "downloadUrl": "https://climaster.game-idolypride.jp/StoreGppProduct/662837174f6bf1e21ba9e4448ae1681a49de3bc1d66ee0728f3431be50da29eb"
+  },
+  {
+   "type": "StoreProduct",
+   "fileName": "931fe57f4674cf39a0e161f3e6df71ee75696fc378f6fe8f728513dc3c3d0ed0",
+   "fileSize": 36864,
+   "cryptoKey": "776c3764564652325158596b4b6d397035556435496143765978475a5566696f",
+   "downloadUrl": "https://climaster.game-idolypride.jp/StoreProduct/931fe57f4674cf39a0e161f3e6df71ee75696fc378f6fe8f728513dc3c3d0ed0"
+  },
+  {
+   "type": "StoryEpisodeConsumption",
+   "fileName": "d9407127bab52e5f599d30b8052c2d6432a59dd67ff1f7714894218ec44a4021",
+   "fileSize": 32768,
+   "cryptoKey": "6e6c63703942316850474f777063325373315a4d4d304e59324d7434516e5243",
+   "downloadUrl": "https://climaster.game-idolypride.jp/StoryEpisodeConsumption/d9407127bab52e5f599d30b8052c2d6432a59dd67ff1f7714894218ec44a4021"
+  },
+  {
+   "type": "Story",
+   "fileName": "63422e691e5bc5362ea226368abbfa63465cb2dbb0f012175509b3ea65fe8517",
+   "fileSize": 1024000,
+   "cryptoKey": "31536e6b504f733853686668556e414947614e68434b66496753555076427334",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Story/63422e691e5bc5362ea226368abbfa63465cb2dbb0f012175509b3ea65fe8517"
+  },
+  {
+   "type": "StoryPart",
+   "fileName": "628b75c79180aa320568f74586c6a9d880cc2489f89d324e5965dc9084626e75",
+   "fileSize": 73728,
+   "cryptoKey": "57617859514343414872616e35434b5330654c6b74515136675a6f4754337a66",
+   "downloadUrl": "https://climaster.game-idolypride.jp/StoryPart/628b75c79180aa320568f74586c6a9d880cc2489f89d324e5965dc9084626e75"
+  },
+  {
+   "type": "Telephone",
+   "fileName": "91ac489ba3ac481e1e0f1c99beab1311dc2cef45584c25674e4fab9bbc280172",
+   "fileSize": 126976,
+   "cryptoKey": "5a4437793671534163665769786b4a6d303542394170505244675a30454d4677",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Telephone/91ac489ba3ac481e1e0f1c99beab1311dc2cef45584c25674e4fab9bbc280172"
+  },
+  {
+   "type": "TitleBackground",
+   "fileName": "6310f7a455b403c6d3bd735afc18c792c42d7844ad12451f757406b30015866b",
+   "fileSize": 12288,
+   "cryptoKey": "79765a3165354c726334746f3247764e4763614f695a554b66356c736c5a7174",
+   "downloadUrl": "https://climaster.game-idolypride.jp/TitleBackground/6310f7a455b403c6d3bd735afc18c792c42d7844ad12451f757406b30015866b"
+  },
+  {
+   "type": "TotalStaffEnhanceAdvantage",
+   "fileName": "4bf158292cf457d000292ad320c6a5e3dbadf95275a6fc38b8ae0e6be591d25d",
+   "fileSize": 16384,
+   "cryptoKey": "6947337667703550573635527678557544756c4c55575a774d63505644666734",
+   "downloadUrl": "https://climaster.game-idolypride.jp/TotalStaffEnhanceAdvantage/4bf158292cf457d000292ad320c6a5e3dbadf95275a6fc38b8ae0e6be591d25d"
+  },
+  {
+   "type": "TourQuestSetting",
+   "fileName": "0b9c821b8cf3b52b361cd76056a7f3a3172d91bd4789865223a1b11f3ab532c4",
+   "fileSize": 12288,
+   "cryptoKey": "6862676d454a3153663575766b47614b6c39444c76594c42456e34703574524b",
+   "downloadUrl": "https://climaster.game-idolypride.jp/TourQuestSetting/0b9c821b8cf3b52b361cd76056a7f3a3172d91bd4789865223a1b11f3ab532c4"
+  },
+  {
+   "type": "Tutorial",
+   "fileName": "09e4e60c5dc01d282523cb8fa384eee186358f65c4e1a08bfc5d622d25efe1d8",
+   "fileSize": 36864,
+   "cryptoKey": "736a6958624741704846436b4e4d6d784d647562556e476966556d665167586c",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Tutorial/09e4e60c5dc01d282523cb8fa384eee186358f65c4e1a08bfc5d622d25efe1d8"
+  },
+  {
+   "type": "Wording",
+   "fileName": "a597a219a41bc8d1d2bf96ceb55ff3cc8d26200ccfddadfa80ec9e6784c3ee4b",
+   "fileSize": 57344,
+   "cryptoKey": "4b65773776497a6368437730634b636a736d4162504e53376c424172706b6342",
+   "downloadUrl": "https://climaster.game-idolypride.jp/Wording/a597a219a41bc8d1d2bf96ceb55ff3cc8d26200ccfddadfa80ec9e6784c3ee4b"
+  },
+  {
+   "type": "ExtraStory",
+   "fileName": "6d10257361f03e2a73bab0cfb46db1a85ea3c9fee9de9a7467f65041754c1b2f",
+   "fileSize": 131072,
+   "cryptoKey": "4a4c6d39597a3331314e7654744d424974366959683342304d4f6a384a51484a",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ExtraStory/6d10257361f03e2a73bab0cfb46db1a85ea3c9fee9de9a7467f65041754c1b2f"
+  },
+  {
+   "type": "ExtraStoryPart",
+   "fileName": "33c2f80184219c11c080fdae52de683e653e17e5abb24ad9985390e378fa0a2a",
+   "fileSize": 20480,
+   "cryptoKey": "5a574c544a677a36686d5a5a734a704b6f5638675a3279506368516d7a336933",
+   "downloadUrl": "https://climaster.game-idolypride.jp/ExtraStoryPart/33c2f80184219c11c080fdae52de683e653e17e5abb24ad9985390e378fa0a2a"
+  }
+ ]
+}

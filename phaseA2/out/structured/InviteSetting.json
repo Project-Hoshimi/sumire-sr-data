@@ -1,0 +1,1 @@
+[{"Id":"invite_setting-001","__unknown":[],"__msg":"Solis.Common.Proto.Master.InviteSetting","GuestRewardId":"rd_auto;stone;stone;1000","GuestCodeEnterAllowDays":30,"HostRewardAmountLimit":1000,"HostGuestLimit":20,"HostRewardResourceType":1,"HostRewardResourceId":"item-medal-friend"}]
